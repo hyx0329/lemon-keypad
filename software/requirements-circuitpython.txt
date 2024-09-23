@@ -1,0 +1,6 @@
+# for CircuitPython only
+neopixel
+adafruit_hid
+adafruit_logging
+asyncio
+adafruit_lsm6ds

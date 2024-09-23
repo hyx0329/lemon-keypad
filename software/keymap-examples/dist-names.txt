@@ -1,0 +1,2 @@
+en:keymap_examples
+zh_CN:键位图示例

@@ -1,0 +1,10 @@
+*.zip
+*cache
+*.lck
+*.bak
+*.log
+/bom
+/jlcpcb
+/*backups
+/production
+

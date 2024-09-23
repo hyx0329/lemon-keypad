@@ -1,0 +1,2 @@
+en:documents
+zh_CN:软件详细说明

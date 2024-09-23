@@ -1,0 +1,25 @@
+# comment starts with `#'
+# default values will be `None'
+# save this file in format `UTF-8 without BOM'
+
+# Note TOML is a little different from Python
+# and CircuitPython don't support booleans, float yet
+# ONLY integers and strings are supported
+# config examples:
+# integer = 123
+# hex_number = 0xabc
+# string = 'hello world' # can have emojis etc. so long as this file is saved in `UTF-8 without BOM'
+# unicode_string_escape = "\u20ac" # the euro sign (€)
+
+# USB drive label, up to 11 chars
+drive_label = "LEMONKEYPAD"
+
+#disable_usb_drive = 1
+#lock_usb_drive = 1
+#disable_serial_console = 1
+
+# compensation vector for IMU
+# real value is value * 0.0001
+#imu_accel_comp_x=0
+#imu_accel_comp_y=0
+#imu_accel_comp_z=0

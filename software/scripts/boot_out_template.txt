@@ -1,0 +1,4 @@
+Adafruit CircuitPython 9.0.2 on 2024-03-28; WeAct Studio Pico 16MB with rp2040
+Board ID:weact_studio_pico_16mb
+UID:XXXXXXXXXXXXXXXX
+[2K[0Gboot.py output:
